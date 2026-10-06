@@ -2,6 +2,16 @@
   "version": 1,
   "items": [
     {
+      "id": "MOT-C-1DOEPUT-IG",
+      "productId": "MOT-1DOEPUT",
+      "title": "The Off-White Shirt",
+      "category": "The Fit",
+      "description": "Off-white shirt. Dark trousers. Keep the rest restrained.",
+      "image": "https://res.cloudinary.com/whj8o30r/image/upload/men-of-taste/MOT-C-1DOEPUT-IG-1.png",
+      "imageAlt": "The Off-White Shirt editorial image",
+      "affiliateUrl": "https://clnk.in/CYsB"
+    },
+    {
       "id": "MOT-C-1TS68NK-IG",
       "productId": "MOT-1TS68NK",
       "title": "The Black Shirt",
