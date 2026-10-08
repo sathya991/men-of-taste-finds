@@ -2,16 +2,6 @@
   "version": 1,
   "items": [
     {
-      "id": "MOT-C-0IFOGZH-IG",
-      "productId": "MOT-0IFOGZH",
-      "title": "Jack & Jones Men Navy Blue Cotton Regular Fit Polo T-Shirt",
-      "category": "The Fit",
-      "description": "Explore Jack & Jones Men Navy Blue Cotton Regular Fit Polo T-Shirt at Nykaa Fashion.",
-      "image": "https://res.cloudinary.com/whj8o30r/image/upload/men-of-taste/MOT-C-0IFOGZH-IG-1.png",
-      "imageAlt": "Jack & Jones Men Navy Blue Cotton Regular Fit Polo T-Shirt editorial image",
-      "affiliateUrl": "https://clnk.in/C14z"
-    },
-    {
       "id": "MOT-C-1N53TK1-IG",
       "productId": "MOT-1N53TK1",
       "title": "WROGN Men's Brown Relaxed Fit Solid Shirt",
@@ -20,6 +10,16 @@
       "image": "https://res.cloudinary.com/whj8o30r/image/upload/men-of-taste/MOT-C-1N53TK1-IG-1.png",
       "imageAlt": "WROGN Men's Brown Relaxed Fit Solid Shirt editorial image",
       "affiliateUrl": "https://clnk.in/C14y"
+    },
+    {
+      "id": "MOT-C-0IFOGZH-IG",
+      "productId": "MOT-0IFOGZH",
+      "title": "Jack & Jones Men Navy Blue Cotton Regular Fit Polo T-Shirt",
+      "category": "The Fit",
+      "description": "Explore Jack & Jones Men Navy Blue Cotton Regular Fit Polo T-Shirt at Nykaa Fashion.",
+      "image": "https://res.cloudinary.com/whj8o30r/image/upload/men-of-taste/MOT-C-0IFOGZH-IG-1.png",
+      "imageAlt": "Jack & Jones Men Navy Blue Cotton Regular Fit Polo T-Shirt editorial image",
+      "affiliateUrl": "https://clnk.in/C14z"
     },
     {
       "id": "MOT-C-1DOEPUT-IG",
