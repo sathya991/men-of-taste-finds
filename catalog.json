@@ -2,6 +2,16 @@
   "version": 1,
   "items": [
     {
+      "id": "MOT-C-17LA6MR-IG",
+      "productId": "MOT-17LA6MR",
+      "title": "One Watch. Keep It Simple.",
+      "category": "The Fit",
+      "description": "One watch. Keep it simple.",
+      "image": "https://res.cloudinary.com/whj8o30r/image/upload/men-of-taste/MOT-C-17LA6MR-IG-1.png",
+      "imageAlt": "One Watch. Keep It Simple. editorial image",
+      "affiliateUrl": "https://clnk.in/Db62"
+    },
+    {
       "id": "MOT-C-1N53TK1-IG",
       "productId": "MOT-1N53TK1",
       "title": "WROGN Men's Brown Relaxed Fit Solid Shirt",
