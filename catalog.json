@@ -2,6 +2,16 @@
   "version": 1,
   "items": [
     {
+      "id": "MOT-C-14B63GK-IG",
+      "productId": "MOT-14B63GK",
+      "title": "The Black Wallet. Keep It Low-Key.",
+      "category": "A Good Find",
+      "description": "Keep the everyday essentials simple.",
+      "image": "https://res.cloudinary.com/whj8o30r/image/upload/men-of-taste/MOT-C-14B63GK-IG-1.png",
+      "imageAlt": "The Black Wallet. Keep It Low-Key. editorial image",
+      "affiliateUrl": "https://clnk.in/DfCv"
+    },
+    {
       "id": "MOT-C-17LA6MR-IG",
       "productId": "MOT-17LA6MR",
       "title": "One Watch. Keep It Simple.",
